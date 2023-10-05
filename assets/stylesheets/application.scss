@@ -4,7 +4,7 @@ body {
 
 .flat-list {
   display: flex;
-  flex-wrap: wrap;
+  flex-flow: column;
 }
 
 @import "card.scss";
